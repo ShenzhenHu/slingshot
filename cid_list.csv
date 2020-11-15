@@ -1,1 +1,51 @@
 deal_id,miner_id,payload_cid,filename,file_format,size_in_bytes,date,curated_dataset_if_applicable
+N/A,	f066075,	N/A,	COVID-19 Open Research Dataset,	JSON,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Chest X-Ray Images (Pneumonia),	JPEG,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Huge Stock Market Dataset,	CSV,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Condensed Movies,	Video,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	USENET (2005-2011),	Text,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Sloan Digital Sky Survey,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	GHTorrent Project,	MySQL,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Free Music Archive,	MP3,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Open Images Dataset,	PNG,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Internet Archive,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Common Crawl,	WARC,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Noisy speech database,	WAV,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	NFL play-by-play,	Text,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	NYC Trip Record Data,	CSV,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	National Cancer Institute,	JSON,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Public Blockchain Datasets,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Landsat 8,	GeoTIFF + metadata - sample scene,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Docker Images,	images,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Filecoin Proofs,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Filecoin Trusted Setup,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Audius,	MP3,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Flickr Commons,	jpeg,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Arxiv,	PDF,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Audius,	MP3,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Blackbird Dataset,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Linux ISO,	ISO,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	ArchLinux,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	CentOS,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Data is Plural,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Tencent Corpus for Chinese Words and Phrases,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	R-fMRI Maps Project,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	National Palace Museum (Taiwan),	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Congressional Datasets,	Various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Unsplash,	jpeg,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Project Gutenberg,	 various,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Monolith VR Materials,	 Video,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Starry Sky in Yunnan,	 tar & fits,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	ImageNet,	jpeg,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Github,	Git repositories / plain text,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	IPUMS,	Structured data,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Kaggle datasets,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Amazon datasets,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Udacity Self-Driving Car data,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	Million Song Dataset,	N/A,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	The nuScenes dataset,	jpeg,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	The Boxy Vehicles Dataset,	image,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	TrackingNet,	image,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	A2D2,	point cloud & image,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	KITTI-raw data,	point cloud & image,	N/A,	N/A,	N/A
+N/A,	f066075,	N/A,	NEAR-VI-Dataset,	gif,	N/A,	N/A,	N/A
